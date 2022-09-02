@@ -4,7 +4,7 @@
 
 .text-area {
     width: 50%;
-    padding-left: 100px;
+    padding-left: 180px;
     padding-right: 150px;
 
     padding-top: 150px;
@@ -16,6 +16,10 @@ h1 {
     font-size: 58px;
     font-family: 'DM Sans', sans-serif;
     line-height: 25px;
+}
+
+.orange {
+    color: rgba(255, 136, 0, 0.966);
 }
 
 .first-paragraph {
@@ -44,4 +48,43 @@ h1 {
 
 .first-part {
     padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+#lady {
+
+    height: 550px;
+    width: 350px;
+    padding-left: 250px;
+    padding-top: 82px;
+}
+
+.text-area-2 {
+
+    width: 50%;
+    padding-left: 220px;
+    padding-top: 100px;
+}
+
+.about-me {
+
+    padding-right: 200px;
+    padding-bottom: 80px;
+    line-height: 30px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.671);
+}
+
+.second-part {
+
+    padding-bottom: 50px;
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+}
+
+body {
+    margin: 0px;
 }
