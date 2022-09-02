@@ -18,6 +18,12 @@ h1 {
     line-height: 25px;
 }
 
+h2 {
+    font-size: 40px;
+    font-family: 'DM Sans', sans-serif;
+    color: rgba(0, 0, 0, 0.671);
+}
+
 .orange {
     color: rgba(255, 136, 0, 0.966);
 }
@@ -87,4 +93,16 @@ h1 {
 
 body {
     margin: 0px;
+}
+
+.foodpanda {
+    text-align: center;
+}
+
+#offer-text {
+    padding-left: 450px;
+    padding-right: 450px;
+    font-size: 17px;
+    font-family: 'DM Sans', sans-serif;
+    color: rgba(0, 0, 0, 0.671);
 }
