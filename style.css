@@ -141,3 +141,58 @@ body {
 .items {
     padding-top: 30px;
 }
+
+.last-part {
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(128, 128, 128, 0.521);
+    line-height: 10px;
+}
+
+.subscriber {
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.number {
+    padding-top: 30px;
+    font-family: 'DM Sans', sans-serif;
+    color: black;
+}
+
+.numbertext {
+    padding-bottom: 30px;
+    font-size: 15px;
+    font-family: 'DM Sans', sans-serif;
+    color: rgba(0, 0, 0, 0.600);
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.918);
+    text-align: center;
+    margin-top: 100px;
+}
+
+.fn {
+    color: rgb(139, 140, 141);
+    font-family: 'DM Sans', sans-serif;
+    padding-top: 50px;
+    font-size: 22px;
+}
+
+h4 {
+    color: rgb(139, 140, 141);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+
+}
+
+h5 {
+    color: rgb(139, 140, 141);
+    font-family: 'DM Sans', sans-serif;
+    padding-bottom: 70px;
+    font-size: 10px;
+}
